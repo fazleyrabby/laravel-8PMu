@@ -4,7 +4,7 @@ description: A Laravel app that connects to a PostgreSQL database
 tags:
   - php
   - laravel
-  - postgresql
+  - mysql
 ---
 
 # Laravel Starter Example
@@ -17,7 +17,7 @@ This is a [Laravel](https://laravel.com/) starter app that connects to a Railway
 
 - PHP
 - Laravel
-- Postgres
+- Mysql
 
 ## 💁‍♀️ How to use
 
